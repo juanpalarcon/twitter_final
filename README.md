@@ -1,5 +1,7 @@
 # README
 
+iniciar en terminal mailcatcher
+
 Para ver app en heroku deben seguir las siguientes instrucciones
 
 Para revisar app visitar https://radiant-headland-62904.herokuapp.com/
@@ -12,4 +14,4 @@ Para revisar api por fecha ejemplo https://radiant-headland-62904.herokuapp.com/
 
 Para ver solo a mis amigos pinchar en boton friends ubicado en navbar
 
-Para ingresar tweets desde postman agregar basic authentication name: desafio, password: latam  (usar campos content y user_id)# twitter_final
+Para ingresar tweets desde postman agregar basic authentication name: desafio, password: latam (usar campos content y user_id)# twitter_final
