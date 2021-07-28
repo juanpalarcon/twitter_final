@@ -1,6 +1,6 @@
 # README
 
-iniciar en terminal mailcatcher
+iniciar en terminal mailcatcher para confirmar correo (abrir en terminal nueva)
 
 Para ver app en heroku deben seguir las siguientes instrucciones
 
