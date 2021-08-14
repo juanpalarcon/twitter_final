@@ -2,7 +2,7 @@
 
 app heroku visitar https://blooming-shelf-33662.herokuapp.com/
 
-Para iniciar sesion como administrador visitar https://blooming-shelf-33662.herokuapp.com/ (ver pestaña users) user: admin@example.com , password: password
+Para iniciar sesion como administrador visitar https://blooming-shelf-33662.herokuapp.com/admin/login (ver pestaña users) user: admin@example.com , password: password
 
 direccion api: https://blooming-shelf-33662.herokuapp.com/api/news
 
